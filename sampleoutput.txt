@@ -1,0 +1,33 @@
+*************************************
+      EXCEPTION HANDLING PROGRAM
+*************************************
+
+1. VALUE ERROR
+Enter a number: abc
+Error: Please enter numbers only.
+ValueError handling completed.
+
+2. ZERO DIVISION ERROR
+Enter first number: 10
+Enter second number: 0
+Error: Cannot divide by zero.
+ZeroDivisionError handling completed.
+
+3. INDEX ERROR
+Enter list elements separated by space: 10 20 30 40
+Enter index: 5
+Error: Index is out of range.
+IndexError handling completed.
+
+4. KEY ERROR
+Enter key (name/age/course): salary
+Error: Key not found.
+KeyError handling completed.
+
+5. TYPE ERROR
+Error: Cannot add an integer and a string.
+TypeError handling completed.
+
+*************************************
+      PROGRAM EXECUTION COMPLETED
+*************************************
